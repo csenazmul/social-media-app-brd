@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     # custom user management app
     'accounts.apps.AccountsConfig',
     'posts.apps.PostsConfig', # Post management app
-    'django.contrib.sites',
+    # 'django.contrib.sites',
 
     
     # Third party apps
